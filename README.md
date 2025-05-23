@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there 👋,I am
 
-<!--
-**mahesh-nayak53/mahesh-nayak53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 About Me
 
-Here are some ideas to get you started:
+I am a full-stack web developer who loves turning ideas into real, usable digital experiences. From designing clean, responsive interfaces to building the systems that power them, I enjoy every part of the development process.  I’m passionate about creating work that’s not only functional but also engaging and user-friendly. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ I’m always excited to take on new challenges, learn something new, and collaborate with others to build something great.
+
+
+## 🛠️ Skills & Tools
+--------------------------------------------------------------------------------------------------------
+|   Category                   |      Skills                                                            |
+|------------------------------|------------------------------------------------------------------------|
+| 🌐 Web Technologies         | HTML5, CSS3, JavaScript                                                |
+| 🛠️ Frameworks & Libraries   | Bootstrap, Tailwind CSS, React                                         |
+| 🗄️ Backend & Databases      | Node.js, Express.js, MongoDB, Firebase                                 |
+| 🧰 Tools & Languages        | Git, Java                                                              |
+| 💻 IDE                      | VS Code, Jupyter Notebook                                              |
+| 🤖 Machine Learning         | NumPy, Pandas, Matplotlib, Scikit-Learn                                |
+| 🖥️ Operating Systems        | Windows                                                                |
+--------------------------------------------------------------------------------------------------------
+
