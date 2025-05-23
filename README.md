@@ -22,8 +22,8 @@ I am a full-stack web developer who loves turning ideas into real, usable digita
 
 ## 📊 GitHub Stats
 
-![Mahesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-mahesh-nayak53&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-mahesh-nayak53&layout=compact&theme=radical)
+![Mahesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahesh-nayak53&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahesh-nayak53&layout=compact&theme=radical)
 
 ---
 
