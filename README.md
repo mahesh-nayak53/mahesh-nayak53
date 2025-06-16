@@ -15,8 +15,7 @@ I am a full-stack web developer who loves turning ideas into real, usable digita
 | 🛠️ Frameworks & Libraries   | Bootstrap, Tailwind CSS, React                                         |
 | 🗄️ Backend & Databases      | Node.js, Express.js, MongoDB, Firebase                                 |
 | 🧰 Tools & Languages        | Git, Java                                                              |
-| 💻 IDE                      | VS Code, Jupyter Notebook                                              |
-| 🤖 Machine Learning         | NumPy, Pandas, Matplotlib, Scikit-Learn                                |
+| 💻 IDE                      | VS Code, Jupyter Notebook                                              |                              
 | 🖥️ Operating Systems        | Windows                                                                |
 --------------------------------------------------------------------------------------------------------
 
