@@ -30,4 +30,3 @@ I am a full-stack web developer who loves turning ideas into real, usable digita
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahesh-nayak-008159281/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:maheshnayakgvt06@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=firefox&logoColor=white)](https://your-portfolio-link.com)
