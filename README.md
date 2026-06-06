@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Mahesh Nayak
+# Hi there 👋, I'm Mahesh
 
 ## 👨‍💻 About Me
 
