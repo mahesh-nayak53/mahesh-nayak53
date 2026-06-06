@@ -26,13 +26,6 @@ I have hands-on experience with Spring Boot, React.js, FastAPI, MySQL, and REST 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahesh-nayak53&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahesh-nayak53&layout=compact&theme=tokyonight" />
-</p>
----
 
 ## 📫 Connect With Me
 
