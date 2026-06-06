@@ -26,28 +26,12 @@ I have hands-on experience with Spring Boot, React.js, FastAPI, MySQL, and REST 
 
 ---
 
-## 🚀 Featured Projects
-
-### Hybrid Deep Learning Framework for Multimodal Emotion Recognition
-
-* Developed a multimodal emotion recognition system using EEG signals and facial expressions.
-* Implemented FFT-based feature extraction and deep learning models (CNN/LSTM) for emotion classification.
-* Built a real-time prediction platform using React.js, Spring Boot, FastAPI, and MySQL.
-
-### AI Career Assistant & Job Tracker
-
-* Developed a full-stack career management platform with job tracking and AI-powered career guidance.
-* Implemented secure authentication, resume analysis, interview preparation, and application management features.
-* Built using React.js, Spring Boot, MySQL, JWT Authentication, and REST APIs.
-
----
-
 ## 📊 GitHub Stats
 
-![Mahesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahesh-nayak53\&show_icons=true\&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahesh-nayak53\&layout=compact\&theme=radical)
-
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahesh-nayak53&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahesh-nayak53&layout=compact&theme=tokyonight" />
+</p>
 ---
 
 ## 📫 Connect With Me
