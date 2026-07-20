@@ -14,12 +14,10 @@ I have hands-on experience with Spring Boot, React.js, FastAPI, MySQL, and REST 
 
 | Category                     | Skills                                                                     |
 | ---------------------------- | -------------------------------------------------------------------------- |
-| 💻 Programming Languages     | Java, JavaScript, Python                                                   |
+| 💻 Programming Languages     | Java                                                                       |
 | 🌐 Frontend Development      | HTML5, CSS3, JavaScript, React.js, Bootstrap, Tailwind CSS                 |
 | ⚙️ Backend Development       | Spring Boot, FastAPI, REST APIs                                            |
-| 🗄️ Databases                | MySQL                                                                      |
-| 🤖 AI / Machine Learning     | TensorFlow, Keras, OpenCV, CNN, LSTM, FFT, Machine Learning, Deep Learning |
-| 🔐 Security & Authentication | JWT Authentication                                                         |
+| 🗄️ Databases                | MySQL                                                                      |                                                        |
 | 🛠️ Tools & Platforms        | Git, GitHub, Maven, Postman, VS Code, IntelliJ IDEA                        |
 | ☁️ Deployment & Development  | GitHub, API Integration                                                    |
 | 🖥️ Operating Systems        | Windows, Linux (Basics)                                                    |
