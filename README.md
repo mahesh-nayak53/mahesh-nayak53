@@ -24,9 +24,13 @@ I have hands-on experience with Spring Boot, React.js, FastAPI, MySQL, and REST 
 
 ---
 
+##LeetCode
+
+[![LeetCode](https://leetcode.com/u/Mahesh_53/)
 
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mahesh-nayak-008159281/)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail\&logoColor=white)](mailto:maheshnayakgvt06@gmail.com)
+
