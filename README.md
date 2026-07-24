@@ -24,9 +24,10 @@ I have hands-on experience with Spring Boot, React.js, FastAPI, MySQL, and REST 
 
 ---
 
-##LeetCode
+## LeetCode
 
-[![LeetCode](https://leetcode.com/u/Mahesh_53/)
+[![LeetCode Logo](https://shields.io)](https://leetcode.com/u/Mahesh_53/)
+
 
 ## 📫 Connect With Me
 
