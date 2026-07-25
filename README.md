@@ -18,7 +18,7 @@ I have hands-on experience with Spring Boot, React.js, FastAPI, MySQL, and REST 
 | 🌐 Frontend Development      | HTML5, CSS3, JavaScript, React.js, Bootstrap, Tailwind CSS                 |
 | ⚙️ Backend Development       | Spring Boot, Hibernate , REST APIs                                            |
 | 🗄️ Databases                | MySQL                                                                      |                                                        |
-| 🛠️ Tools & Platforms        | Git, GitHub, Maven, Postman, VS Code, IntelliJ IDEA                        |
+| 🛠️ Tools & Platforms        | Git, GitHub, Maven, Postman, VS Code                                       |
 | ☁️ Deployment & Development  | GitHub, API Integration                                                    |
 | 🖥️ Operating Systems        | Windows, Linux (Basics)                                                    |
 
