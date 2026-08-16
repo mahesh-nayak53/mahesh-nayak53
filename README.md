@@ -2,11 +2,11 @@
 
 ## 👨‍💻 About Me
 
-I am a Software Engineer and Java Full Stack Developer with experience building scalable web applications and AI-powered solutions. I enjoy developing end-to-end applications, from creating responsive user interfaces to designing secure backend services and integrating machine learning models.
+I am a Java Full Stack Developer passionate about building scalable, secure, and user-friendly web applications. I enjoy developing end-to-end applications, from creating responsive frontend interfaces to designing robust backend services and REST APIs.
 
-I have hands-on experience with Spring Boot, React.js, FastAPI, MySQL, and REST APIs, along with developing AI/ML projects involving computer vision, EEG signal processing, and deep learning. I am passionate about solving real-world problems through technology and continuously improving my skills in software development and artificial intelligence.
+I have hands-on experience with Java, Spring Boot, Hibernate, React.js, MySQL, and REST APIs, along with tools such as Git, GitHub, Maven, and Postman.
 
-✨ Always eager to learn new technologies, contribute to impactful projects, and collaborate with innovative teams.
+✨ Always eager to learn new technologies, solve real-world problems, and build impactful software solutions.
 
 ---
 
@@ -24,9 +24,9 @@ I have hands-on experience with Spring Boot, React.js, FastAPI, MySQL, and REST 
 
 ---
 
-## LeetCode
+## 💻 LeetCode
 
-[![LeetCode Logo](https://shields.io)](https://leetcode.com/u/Mahesh_53/)
+Solved 200+ LeetCode problems, earning 50-Day and SQL badges through consistent practice.
 
 
 ## 📫 Connect With Me
