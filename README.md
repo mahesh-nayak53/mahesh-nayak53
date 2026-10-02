@@ -10,7 +10,7 @@ I am a Java Full Stack Developer passionate about building scalable, secure, and
 
 I have hands-on experience with Java, Spring Boot, Hibernate, React.js, MySQL, and REST APIs, along with tools such as Git, GitHub, Maven, and Postman.
 
-✨ Always eager to learn new technologies, solve real-world problems, and build impactful software solutions.
+Always eager to learn new technologies, solve real-world problems, and build impactful software solutions.
 
 ---
 
