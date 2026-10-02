@@ -2,6 +2,10 @@
 
 ## 👨‍💻 About Me
 
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React.js+Developer;Building+Scalable+Web+Applications;Always+Learning+%26+Building" />
+</h3>
+
 I am a Java Full Stack Developer passionate about building scalable, secure, and user-friendly web applications. I enjoy developing end-to-end applications, from creating responsive frontend interfaces to designing robust backend services and REST APIs.
 
 I have hands-on experience with Java, Spring Boot, Hibernate, React.js, MySQL, and REST APIs, along with tools such as Git, GitHub, Maven, and Postman.
