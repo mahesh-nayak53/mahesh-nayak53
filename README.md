@@ -16,11 +16,11 @@ Always eager to learn new technologies, solve real-world problems, and build imp
 
 ## 💻 LeetCode
 
-Solved 250+ LeetCode problems, earning 50-Day and SQL badges through consistent practice.
+Solved 250+ LeetCode problems, earning 100-Days and SQL badges through consistent practice.
 
 <p align="center">
   <a href="https://leetcode.com/u/Mahesh_53/">
-    <img src="https://leetcard.jacoblin.cool/Mahesh_53?theme=dark&font=Baloo%202" alt="Mahesh's LeetCode Stats"/>
+    <img src="https://leetcard.jacoblin.cool/Mahesh_53?theme=dark&font=Baloo%202" alt="Mahesh's LeetCode Stats" width="1000"/>
   </a>
 </p>
 
